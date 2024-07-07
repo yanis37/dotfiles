@@ -1,7 +1,7 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-family: NotoSans Nerd Font, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13;
 }
 
 /* 1793D1 */
@@ -220,7 +220,7 @@ label:focus {
 }
 
 #tray {
-    background-color: #2980b9;
+    background-color: #1793D1;
 }
 
 #tray > .passive {
@@ -292,7 +292,8 @@ label:focus {
 
 #custom-archlogo {
     background-color: #1793D1;
+    font-size: 20px;
     color: #ffffff;
     padding-left: 10px;
-    padding-right: 6px;
+    padding-right: 5px;
 }

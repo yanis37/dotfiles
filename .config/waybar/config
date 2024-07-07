@@ -11,11 +11,11 @@
     "disable-scroll": true,
     "format": "{icon}",
     "format-icons": {
-      "1": "1. \uebc7 ",
+      "1": "1. \uf489 ",
       "2": "2. \udb80\ude39 ",
-      "3": "3. \udb82\ude1e ",
-      "4": "4. \udb83\udebb ",
-      "5": "5",
+      "3": "3. \uf44f ",
+      "4": "4. \udb82\udfd7 ",
+      "5": "5. \uf101",
       "default": " "
     },
     "persistent-workspaces": {

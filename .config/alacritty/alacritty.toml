@@ -1,3 +1,11 @@
 [window.padding]
 x = 15
 y = 15
+
+[font]
+builtin_box_drawing = false
+size                = 13
+
+[font.normal]
+family = "UbuntuMono Nerd Font Mono"
+
