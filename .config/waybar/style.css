@@ -1,7 +1,7 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: NotoSans Nerd Font, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13;
+    font-size: 14;
 }
 
 /* 1793D1 */
@@ -295,5 +295,5 @@ label:focus {
     font-size: 20px;
     color: #ffffff;
     padding-left: 10px;
-    padding-right: 5px;
+    padding-right: 8px;
 }
