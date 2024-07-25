@@ -80,6 +80,9 @@ alias ls='ls --color'
 alias vim='nvim'
 alias c='clear'
 alias man='tldr'
+alias lg='lazygit'
+alias ls='eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions'
+alias tree='eza --tree --level=2'
 
 # Shell integrations
 eval "$(fzf --zsh)"
