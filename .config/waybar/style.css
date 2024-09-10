@@ -56,6 +56,14 @@ button:hover {
     color: #ffffff;
 }
 
+/* 
+workspace last button padding
+*/
+
+#workspaces button:last-child {
+    padding-right: 0px;
+}
+
 
 #workspaces button:hover {
     background: rgba(0, 0, 0, 0.2);
