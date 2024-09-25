@@ -84,6 +84,7 @@ alias lg='lazygit'
 alias ls='eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions'
 alias tree='eza --tree --level=2'
 alias vpn-univ="sudo openconnect --protocol=anyconnect --user=p2006609 --passwd-on-stdin sslvpn.univ-lyon1.fr"
+alias y='yazi'
 
 # Shell integrations
 eval "$(fzf --zsh)"
